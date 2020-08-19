@@ -1,0 +1,70 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "组件库"
+			}
+		},
+		{
+			"path": "pages/input/input",
+			"style": {
+				"navigationBarTitleText": "input组件"
+			}
+		},
+		{
+			"path": "pages/cell/cell",
+			"style": {
+				"navigationBarTitleText": "cell组件"
+			}
+		},
+		{
+			"path": "pages/button/button",
+			"style": {
+				"navigationBarTitleText": "button组件"
+			}
+		},
+		{
+			"path": "pages/radio/radio",
+			"style": {
+				"navigationBarTitleText": "radio组件"
+			}
+		},
+		{
+			"path": "pages/checkbox/checkbox",
+			"style": {
+				"navigationBarTitleText": "checkbox组件"
+			}
+		},
+		{
+			"path": "pages/tab/tab",
+			"style": {
+				"navigationBarTitleText": "tab组件"
+			}
+		},
+		{
+			"path": "pages/picker/picker",
+			"style": {
+				"navigationBarTitleText": "picker组件"
+			}
+		},
+		{
+			"path": "pages/popup/popup",
+			"style": {
+				"navigationBarTitleText": "popup组件"
+			}
+		},
+		{
+			"path": "pages/address/address",
+			"style": {
+				"navigationBarTitleText": "address组件"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#2ecc9e",
+		"backgroundColor": "#F8F8F8"
+	}
+}
